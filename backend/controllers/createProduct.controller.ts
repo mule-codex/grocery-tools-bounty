@@ -3,7 +3,6 @@ import productModel from "../models/product.model.js";
 import { v4 as uuidv4 } from 'uuid';
 
 export const createProduct = async (req: Request, res: Response) => {
-  console.log(req.body)
   const { name, description, images } = req.body;
   const newProduct = await productModel.create({
     id: uuidv4(),
@@ -11,6 +10,5 @@ export const createProduct = async (req: Request, res: Response) => {
     description,
     images
   })
-  console.log(newProduct)
-  res.send(newProduct)
+  res.send("product created")
 } 
