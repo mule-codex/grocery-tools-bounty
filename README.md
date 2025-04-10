@@ -2,7 +2,7 @@ Feature Bounty Program - Task Breakdown and Rewards
 This document outlines the tasks and their associated rewards for programmers participating in the feature bounty program. Each feature is broken down into individual tasks, with specific reward allocations for completing them. The total budget for the program is ZMW 10,000.
 Language Stack
 •	Frontend: React Native
-•	Backend: Python Flask
+•	Backend: nodejs(expressjs) python (flask)
 •	Database: PostgreSQL
 
 1. Trade Section (Total: ZMW 5,000)
