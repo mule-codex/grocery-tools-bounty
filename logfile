@@ -1,0 +1,2 @@
+2025-04-10 18:37:34.509 CAT [30188] FATAL:  lock file "postmaster.pid" already exists
+2025-04-10 18:37:34.509 CAT [30188] HINT:  Is another postmaster (PID 10112) running in data directory "/data/data/com.termux/files/usr/var/lib/postgresql"?
