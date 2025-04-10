@@ -20,7 +20,17 @@ const productModel = sequelize.define(
     images: {
       type: DataTypes.JSON,
       allowNull: false,
-    }
+    },
+    price: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
+    tags: {
+      type: DataTypes.JSON,
+      allowNull: true,
+    },
+
+
 
   }
 )
