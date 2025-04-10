@@ -4,8 +4,10 @@ This document outlines the tasks and their associated rewards for programmers pa
 •	Frontend: React Native
 •	Backend: nodejs(expressjs) python (flask)
 •	Database: PostgreSQL
-
-
+### Documentation 
+The documentation will be found [here](./documentation/intro.md)
+> To submit please read documentation and make a new branch or clone.
+> 👌
 ## 1.Trade Section (Total: ZMW 5,000)
 a. Product Listing (ZMW 1,500)
 •	Manage product catalogs with descriptions and images: ZMW 300
@@ -68,16 +70,24 @@ d. Reports (ZMW 500)
 •	Produce balance sheet: ZMW 100
 •	Create cash flow statements tracking cash inflows and outflows: ZMW 50
 ________________________________________
-Total Rewards: ZMW 10,000
-Task Guidelines and Requirements
-•	Deadline: All tasks must be completed within the specified timeframe for this bounty program.
-•	Submission: Tasks should be submitted through the project repository, where a detailed explanation of the implementation will be required for each completed task.
-•	Testing: Each task should be tested thoroughly for correctness and functionality. Tasks should include unit and integration tests where applicable.
-•	Documentation: Proper documentation must accompany each task to explain the design choices, logic, and interactions with other components.
+*Total Rewards*: **ZMW 10,000**
+# Task Guidelines and Requirements
+###### •	Deadline: 
+All tasks must be completed within the specified timeframe for this bounty program.
+###### •	**Submission**: 
+Tasks should be submitted through the project repository, where a detailed explanation of the implementation will be required for each completed task.
+###### •	Testing:
+Each task should be tested thoroughly for correctness and functionality. Tasks should include unit and integration tests where applicable.
+###### •	Documentation: 
+Proper documentation must accompany each task to explain the design choices, logic, and interactions with other components.
 Evaluation Criteria
-•	Code Quality: Clean, maintainable, and well-documented code will be prioritized.
-•	Functionality: Features must function as described in the system design document.
-•	Timeliness: Completing tasks within the allocated time is critical.
-•	Collaboration: Developers are expected to collaborate with the team for any clarifications and improvements on tasks.________________________________________
-Good luck, and happy coding!
+###### •	Code Quality:
+Clean, maintainable, and well-documented code will be prioritized.
+###### •	Functionality: 
+Features must function as described in the system design document.
+###### •	Timeliness: 
+Completing tasks within the allocated time is critical.
+###### •	Collaboration: 
+Developers are expected to collaborate with the team for any clarifications and improvements on tasks.________________________________________
+*Good luck, and happy coding!*
 
