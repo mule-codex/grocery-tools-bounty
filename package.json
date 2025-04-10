@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "name": "grocery-tools-bounty",
+  "version": "1.0.0",
+  "description": "Feature Bounty Program - Task Breakdown and Rewards This document outlines the tasks and their associated rewards for programmers participating in the feature bounty program. Each feature is broken down into individual tasks, with specific reward allocations for completing them. The total budget for the program is ZMW 10,000. Language Stack •\tFrontend: React Native •\tBackend: Python Flask •\tDatabase: PostgreSQL",
+  "main": "backend/index.js",
+  "type":"module",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/index.js",
+    "dev": "nodemon backend/,index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mule-codex/grocery-tools-bounty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mule-codex/grocery-tools-bounty/issues"
+  },
+  "homepage": "https://github.com/mule-codex/grocery-tools-bounty#readme"
 }
