@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "esnext",
+    "rootDir": "backend",
+    "outDir": "backend/dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "moduleResolution":"node",
+    "allowImportingTsExtensions":"noEmit",
+  },
+  "include": [
+    "backend/**/*.ts"   
+  ],
+  "exclude": [
+    "backend/dist"
+  ]
+}
