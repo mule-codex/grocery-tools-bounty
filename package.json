@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "sequelize": "^6.37.7",
+    "uuid": "^11.1.0"
   },
   "name": "grocery-tools-bounty",
   "version": "1.0.0",
@@ -12,6 +14,8 @@
     "@types/node": "^22.14.0",
     "concurrently": "^9.1.2",
     "nodemon": "^3.1.9",
+    "pg": "^8.14.1",
+    "pg-hstore": "^2.3.4",
     "typescript": "^5.8.3"
   },
   "scripts": {
