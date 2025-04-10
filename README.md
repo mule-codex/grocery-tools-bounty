@@ -1,11 +1,12 @@
-Feature Bounty Program - Task Breakdown and Rewards
+# Feature Bounty Program - Task Breakdown and Rewards
 This document outlines the tasks and their associated rewards for programmers participating in the feature bounty program. Each feature is broken down into individual tasks, with specific reward allocations for completing them. The total budget for the program is ZMW 10,000.
-Language Stack
+### Language Stack
 •	Frontend: React Native
 •	Backend: nodejs(expressjs) python (flask)
 •	Database: PostgreSQL
 
-1. Trade Section (Total: ZMW 5,000)
+
+## 1.Trade Section (Total: ZMW 5,000)
 a. Product Listing (ZMW 1,500)
 •	Manage product catalogs with descriptions and images: ZMW 300
 •	Configure base prices, discounts, and promotional pricing: ZMW 250
@@ -39,7 +40,7 @@ e. Analytics and Reporting (ZMW 250)
 •	Provide live data feeds for critical metrics like active orders, stock levels, and sales: ZMW 50
 •	Display alerts for anomalies (e.g., low inventory warnings): ZMW 50
 ________________________________________
-2. Ledger Section (Total: ZMW 5000)
+## 2.Ledger Section (Total: ZMW 5000)
 a. Accounts (ZMW 1,200)
 •	Predefined accounts for essential financial categories (e.g., Cash, Accounts Payable, Accounts Receivable, Retained Earnings): ZMW 250
 •	Allow limited customizations (e.g., renaming or adding descriptions for predefined accounts): ZMW 150
