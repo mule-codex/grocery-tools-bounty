@@ -2,6 +2,7 @@ import express, { Response, Request } from "express"
 const app = express()
 import adminRoutes from "./routes/admin.routes.js"
 import sequelize from "./config/db.js"
+app.use(express.json())
 //import routes
 app.use("/admin", adminRoutes)
 //database snyc
