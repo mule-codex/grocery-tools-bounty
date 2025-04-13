@@ -27,3 +27,13 @@ type
 ```bash
 npm run dev
 ```
+
+## Navigation
+
+Use the links below to access the documentation for the available routes.
+
+### Backend Routes
+
+- [./backend/routes](./backend/routes) — Contains documentation for both admin and user routes.
+
+> **Note**: Please refer to the error codes section for detailed information on potential issues and their meanings.
