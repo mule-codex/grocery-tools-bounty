@@ -27,3 +27,11 @@ type
 ```bash
 npm run dev
 ```
+
+# Navigation
+these links here will navigatevyou to documentation of the code
+
+#### backend routes
+please reference the error codes for knowing whatsvwrong also the json
+[./backend/routes](for admin routes and user routes)
+testing
