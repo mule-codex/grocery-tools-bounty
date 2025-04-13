@@ -8,9 +8,7 @@ app.use("/admin", adminRoutes)
 //database snyc
 async function main() {
   try {
-    await sequelize.sync({
-      force: true
-    })
+    await sequelize.sync()
     app.listen(3000, () => {
       console.log("app running at localhost port 3000")
     })
