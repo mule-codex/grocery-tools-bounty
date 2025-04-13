@@ -3,7 +3,7 @@ import productModel from "../models/product.model.js";
 import { v4 as uuidv4 } from 'uuid';
 
 export const createProduct = async (req: Request, res: Response) => {
-  let { name, description, images, price, tags, discount = 0 } = req.body;
+  let { name, description, images, price, tags, categoryId, discount = 0 } = req.body;
 
   //discount
   if (discount) {
@@ -24,6 +24,7 @@ export const createProduct = async (req: Request, res: Response) => {
       images,
       price,
       tags,
+      categoryId,
     })
 
     res.status(201).send("product created")
