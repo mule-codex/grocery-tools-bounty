@@ -21,6 +21,9 @@ to install the dependencies needed to run the project type
 ```bash
 npm install
 ```
+don't forget to change the postgres dialect in the `config/db.ts` to match your postgres instance
+
+
 #### running the app
 to run the app
 type
